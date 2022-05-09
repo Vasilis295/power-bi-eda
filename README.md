@@ -23,3 +23,5 @@ P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis.
 Modeling wine preferences by data mining from physicochemical properties. In Decision Support Systems, Elsevier, 47(4):547-553, 2009.
 
 
+
+#### In this mini project we explore the variables of wine dataset in power bi(the slides are in pdf form in order to be sent to github)
